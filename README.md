@@ -3,11 +3,11 @@
 - [text8](https://www.kaggle.com/datasets/gupta24789/text8-word-embedding) is the dataset whose words were clustered based on their semantic relationship.
 #
 The optimal number of clusters k was found to be 8. The model produced the following clusters:
-- **Cluster 0:** Human Action, Work and Society (contains words like purchase, effort, finance, decision, business, protest, profit, control)
-- **Cluster 1:** Science, Mathematics and Physics (contains words like field, force, particle, energy, temperature, mechanics, spectrum, velocity)
-- **Cluster 2:** Art, Culture and Literature (contains words like novel, poetry, painter, symphony, sculpture, cinema, writer, comedy, lyric)
-- **Cluster 3:** Military, Conflict and Politics (contains words like army, war, soldier, invasion, empire, treaty, resistance, weapon, dictator)
-- **Cluster 4:** Geography, Nations and Institutions (contains words like London, France, parliament, university, province, nation, minister)
-- **Cluster 5:** Biology, Chemistry and Medicine (contains words like cell, gene, protein, molecule, chemistry, tissue, bacteria, DNA, medicine)
-- **Cluster 6:** Computing, Technology and Linguistics (contains words like algorithm, software, programming, syntax, translation, encoding)
-- **Cluster 7:** Religion, History and Leadership (contains words like king, priest, emperor, church, islam, revolution, dynasty, democracy, reform)
+- **Cluster 0:** Economy, Law & Society (contains words like purchased, investment, lawsuit, employment, reform, protested, censorship, monopoly, dignity, bankruptcy, recovery)
+- **Cluster 1:** Science, Maths & Medicine (contains words like atom, molecule, dna, neuron, plasma, algebra, equation, wavelength, enzyme, vaccine, proton, therapy, chromosome, spectroscopy, photosynthesis)
+- **Cluster 2:** Art, Religion & Philosophy (contains words like film, music, novel, mythology, god, jesus, philosophy, poetry, painting, mythology, orchestra, scripture, enlightenment, plato, theater, religion, jazz, cinematic)
+- **Cluster 3:** People, Names & Professions (contains words like shakespeare, darwin, camus, kafka, curie, feynman, rockefeller, sartre, economist, physicist, novelist, composer, statesman, journalist, astronomer)
+- **Cluster 4:** Geography, Governance & Institutions (contains words like israel, vienna, belfast, paraguay, macedonia, singapore, hampshire, motorway, embassy, parliament, university, colony, annexed, border, treaty)
+- **Cluster 5:** Sports, Transport & Food (contains words like baseball, hockey, olympics, jet, turbine, rocket, vehicle, beer, cheese, sausage, cocoa, farming, cattle, salmon, dolphin)
+- **Cluster 6:** Computing, Linguistics & Logic (contains words like compiler, kernel, UNIX, XML, Unicode, HTTP, TCP, DNS, router, algorithm, Markov, Grothendieck, lemma, IPA, phoneme, declension, morphology, Java, Haskell, Prolog, SQL)
+- **Cluster 7:** Dynasties, Religion & Politics (contains words like throne, emperor, dynasty, bishop, Catholic, Orthodox, Islam, crusade, referendum, revolutionary, assassination, communism, fascism, tsar, caliphate, Jerusalem, Napoleon, Stalin)
