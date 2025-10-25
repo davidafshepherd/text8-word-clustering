@@ -2,7 +2,7 @@
 - [text8_word_clustering.ipynb](text8_word_clustering.ipynb) contains the k-means clustering.
 - [text8](https://www.kaggle.com/datasets/gupta24789/text8-word-embedding) is the dataset whose words were clustered based on their semantic relationship.
 #
-The optimal number of clusters k was found to be 8. The model produced the following clusters:
+The optimal number of clusters k was found to be 6. The model produced the following clusters:
 - Cluster 0: **History, Literature & Figures**
   - Contains words like scorsese, orwell, churchill, washington and ulysses.
 - Cluster 1: **Weapon, Energy & Proplusion**
